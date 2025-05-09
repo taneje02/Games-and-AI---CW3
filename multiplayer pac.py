@@ -169,5 +169,14 @@ while running:
 
     pygame.display.flip()
     clock.tick(5)
+<<<<<<< HEAD
+=======
+
+pygame.quit()
+
+
+
+
+>>>>>>> 8cfc602ed285c646326fdd0ddab7b2296f5620b3
 
 pygame.quit()
